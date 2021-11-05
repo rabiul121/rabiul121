@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rabiul121
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Md. Rabiul Islam
+- 👀 I’m interested in Python Data Science and Web Development
+- 🌱 I’m currently learning Python Data Science
+- 💞️ I’m looking to collaborate on Data analysis project
+- 📫 How to reach me https://fb.com/robiul121
 
 <!---
 rabiul121/rabiul121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
